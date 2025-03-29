@@ -14,7 +14,6 @@
 ---
 
 ## :computer: Tecnologías con las que trabajo  
-Aquí están algunas de las herramientas y tecnologías con las que trabajo en proyectos.  
 
 | Lenguajes de programación  | Frameworks / Librerías | Bases de datos SQL / NOSQL|
 |---------------------------|----------------------|---------------|
