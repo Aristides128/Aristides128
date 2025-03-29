@@ -5,7 +5,7 @@
   <img src="https://octodex.github.com/images/topguntocat.png" alt="Yes We Code" width="300">
 </p>
 
-## :boy: Sobre mí :suspect:
+## :pushpin: Sobre mí :suspect:
 - 🎯 Me especializo en el ** Desarrollo de aplicaciones web para mejorar la eficiencia en la gestión de actividades y resolver problemas.**  
 - 🛠 Trabajo con **tecnologías como Python, PHP, FastAPI, Laravel y más.**  
 - 🌱 Actualmente aprendiendo **Docker y Kubernetes.**  
@@ -15,7 +15,7 @@
 
 ## :computer: Tecnologías con las que trabajo  
 
-| Lenguajes de programación  | Frameworks / Librerías | Bases de datos SQL / NOSQL|
+| Lenguajes de programación  | Frameworks / Librerías | Bases de datos |
 |---------------------------|----------------------|---------------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  | ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white) |  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  |  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
