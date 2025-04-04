@@ -14,7 +14,7 @@
 ---
 
 ## :computer: Tecnologías con las que trabajo  
-| 🖥️ Lenguajes de programación  | ⚙️ Frameworks / Librerías | 🗄️ Bases de datos |
+| 🖥️ Lenguajes | ⚙️ Frameworks / Librerías | 🗄️ Bases de datos |
 |-------------------------------|--------------------------|--------------------|
 | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://es.wikipedia.org/wiki/Python)  | [![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) |  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://es.wikipedia.org/wiki/MySQL) |
 | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://es.php.net/) | [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)  |  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
