@@ -1,14 +1,11 @@
 # 👋¡Bienvenidos! Me llamo Aristides Alvarenga 
-
-
-<div align="center">
 🔹| 💻 Apasionado por la tecnología y la innovación | 📈 Siempre dando lo mejor de mí | 👶 Desarrollador Jr |
-</div>
+
 <p align="center">
   <img src="https://octodex.github.com/images/topguntocat.png" alt="Yes We Code" width="300">
 </p>
 
-<div align="center">
+<div align="left">
   <h1>📌 Sobre mí <span role="img" aria-label="suspect"></span></h1>
 </div>
 
@@ -17,11 +14,11 @@
 - 🌱 Actualmente aprendiendo **Docker y Kubernetes.**  
 - ⚡ Dato sobre mí: **Me gusta la música de los 80s, especialmente el dúo británico Wham!**  
 
-<div align="center">
+<div align="left">
   <h1>🚀 Tecnologías con las que trabajo 🛠️</h1>
 </div>
 
-<div align="center">
+<div align="left">
 <table>
   <thead>
     <tr>
@@ -95,12 +92,12 @@
 </table>
 </div>
 
-<div align="center">
+<div align="left">
   <h1>🛠 Herramientas que utilizo</h1>
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250">
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linux.org/" title="GNU/Linux">
     <img src="https://img.shields.io/badge/-GNU/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
   </a>
@@ -121,13 +118,13 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <h1>📊 Estadísticas de GitHub</h1>
 </div>  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aristides128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=79dafa&text_color=c9d1d9"> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Aristides128&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=79dafa&text_color=c9d1d9"> </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Aristides128&theme=tokyonight&no-frame=true&margin-w=6"> </p>
 
-<div align="center">
+<div align="left">
   <h1>💬 ¡Puedes contactarme en mis redes sociales!</h1>
   
   <a href="https://wa.me/qr/IHTX7ED6LVUMA1" target="_blank">
