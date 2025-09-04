@@ -1,13 +1,10 @@
 # 👋¡Bienvenidos a mi perfil! 
 
 🔹| 💻 Apasionado por la tecnología y la innovación | 📈 Siempre dando lo mejor de mí |
-<p align="center">
-  <img src="https://octodex.github.com/images/topguntocat.png" alt="Yes We Code" width="300">
-</p>
 
 ## :pushpin: Sobre mí :suspect:
 - 🎯 Me especializo en el **Desarrollo de aplicaciones web para mejorar la eficiencia en la gestión de actividades.**  
-- 🛠 Trabajo con **tecnologías como Python, PHP, FastAPI, Laravel y más.**  
+- 🛠 Trabajo con **tecnologías como Python, PHP, Filament, Laravel y más.**  
 - 🌱 Actualmente aprendiendo **Docker y Kubernetes.**  
 - ⚡ Dato sobre mi: **Me gusta la música de los 80s.**  
 
@@ -42,14 +39,10 @@
 
 ## :speech_balloon: ¡Puedes contactarme en mis redes sociales!  
 <div align="left">
-  <a href="https://wa.me/qr/IHTX7ED6LVUMA1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
   <a href="https://t.me/lvrenga1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
   <a href="mailto:aristidessibirian7@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
 </div>
