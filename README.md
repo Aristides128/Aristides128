@@ -1,7 +1,5 @@
 # 👋¡Bienvenidos a mi perfil! 
 
-🔹| 💻 Apasionado por la tecnología y la innovación | 📈 Siempre dando lo mejor de mí |
-
 ## :pushpin: Sobre mí :suspect:
 - 🎯 Me especializo en el **Desarrollo de aplicaciones web para mejorar la eficiencia en la gestión de actividades.**  
 - 🛠 Trabajo con **tecnologías como Python, PHP, Filament, Laravel y más.**  
